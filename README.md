@@ -1,79 +1,40 @@
 <h1 align="center">Matheus Dantas (Mat)</h1>
 <p align="center">
-Backend Developer • Unity Developer • Game Writer (Arcanian: Paranoia)
+Backend Developer • Java • Spring • SQL • Cybersecurity
 </p>
 
 <p align="center">
-🇧🇷 Brazil • 17 years old
+🇧🇷 Brazil • 17y
 </p>
 
-## About Me
+## About
 
-I'm Matheus Dantas, a developer from Brazil focused on backend development and game development using Unity.  
-Currently building projects to improve my skills in cybersecurity, backend systems, and software architecture.
+Desenvolvedor backend com foco em Java e APIs REST. Trabalho em projetos próprios que envolvem automações, análise de portas/serviços, integração entre componentes e organização de código, com uso real em ambientes de teste e validação.
 
-- Backend development studies (APIs, automation, scripts)
-- Unity development (C#)
-- Writing my indie game project: **Arcanian: Paranoia**
-- Interested in cybersecurity tools and network analysis
+Tenho interesse em segurança da informação e arquitetura de software, aplicando boas práticas de segurança e análise de vulnerabilidades em projetos pessoais (ex.: classificação de risco com CVSS).
 
-## 💻 Stack & Languages
+Atualmente foco em:
+- APIs REST com Java (Spring)
+- Modelagem e acesso a dados com SQL
+- Fundamentos de redes e segurança
+- Construção de ferramentas de análise (projetos públicos no GitHub)
 
-```cpp
-#include <iostream>
-#include <array>
-#include <string>
+## 📌 Upcoming Projects
 
-void dev() {
-    const std::string name = "Matheus Dantas (Mat)";
-    const std::string stack = "Backend";
-    const std::string level = "Beginner in";
-    
-    const std::array<const char*, 7> languages = {
-        "Java", "JavaScript", "PHP", "Python", "C++", "C#", "Node.js"
-    };
+- **PortInspector** — Scanner de portas/serviços com classificação de risco (CVSS)  
 
-    std::cout << name << " | " << stack << " | " << level << " ";
+## 💻 Stack
 
-    for (size_t i = 0; i < languages.size(); ++i) {
-        std::cout << languages[i];
-        if (i != languages.size() - 1) std::cout << " - "; 
-    }
-    std::cout << '\n';
-}
+- **Backend:** Java (Spring), Python  
+- **Banco de dados:** SQL  
+- **Ferramentas:** Git/GitHub  
+- **Estudos:** Segurança da Informação, Redes
 
-int main() {
-    dev();
-    return 0;
-}
+## Contato
 
-```
-
-```Console
-Matheus Dantas (Mat) | Backend | Beginner in Java - JavaScript - PHP - Python - C++ - C# - Node.js
-
-...Program finished with exit code 0
-Press ENTER to exit console.
-```
- 
-
-## Contact
-
-<p align="left">
-<a href="https://github.com/Escolhendo" target="_blank">
+<a href="https://github.com/dantas-matheus" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://www.instagram.com/matt_dts_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/matheus-dantas-santos" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontAlignY=40" />
-</p>
